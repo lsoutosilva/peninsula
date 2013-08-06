@@ -3,7 +3,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width" />
 
-        <title>HealthPress WordPress Theme</title>
+        <title>Centro Médico Peninsula</title>
 
         <!-- FAVICON -->
         <link rel="shortcut icon" href="wp-content/uploads/2012/09/favicon.png.png" />

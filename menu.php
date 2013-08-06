@@ -6,7 +6,7 @@
             <li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-9"><a href="index.php">Home</a>
             </li>
             <li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="blog/index.html">Blog</a></li>
-            <li id="menu-item-60" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"><a href="index028b.html?page_id=52">Médicos</a>
+            <li id="menu-item-60" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"><a href="medicos.php">Médicos</a>
             </li>
             <li id="menu-item-64" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64"><a href="indexcc8a.html?page_id=61">Especialidades</a>
                 <ul class="sub-menu">

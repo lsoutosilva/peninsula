@@ -1,6 +1,6 @@
 <!-- Website Logo Place -->
                 <div id="logo-container">
-                    <a href="index.php" class="logo"  title="HealthPress WordPress Theme">
+                    <a href="index.php" class="logo"  title="Centro médico Peninsula">
                         <img src="wp-content/themes/healthpress-theme/images/logo1.png" alt="HealthPress WordPress Theme">
                      <!--   <span class="tagline">Just another WordPress site</span> -->
                     </a>
