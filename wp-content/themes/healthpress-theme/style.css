@@ -574,7 +574,9 @@ footer .footer-widget a.readmore:hover,
 	.ie7 .doc_list .doctors{ margin-bottom:30px; }
 	.doc_list.four_col .doctors li { width: 222px; float: left; margin: 0px 0px 60px 30px; position: relative; }
     .doc_list.four_col .doctors li.clearfix { float: none; clear: both; width: 100%; margin: 0; padding: 0; height: 0;}
-	.doc_list.four_col .doctors li .doc-img { position: relative; width: 214px; height: 170px; float: none; margin: 0px 0px 20px 0px; }
+	.doc_list.four_col .doctors li .doc-img { 
+            position: relative; width: 130px; height: 170px; float: none; margin: 0px 0px 20px 0px; 
+        }
 	.doc_list.four_col .doctors li .doc-img .doc-type { display: inline-block; position: absolute; right: 0px; bottom: 0px; padding: 5px 12px; background: url(images/doc-figure-caption-bg.png); font-size: 12px; color: #fff; }
 
 

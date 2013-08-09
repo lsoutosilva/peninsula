@@ -37,48 +37,40 @@
 
                     <ul class="doctors clearfix" >	
                         <li>
-                            <h4><a href="curriculo_medico.php">Dr.Orana Taleebin</a></h4>
+                            <h4><a href="curriculo_medico.php">Dra. Bianca Welikson</a></h4>
                             <figure class="doc-img">													
-                                <a href="curriculo_medico.php" title="Dr.Orana Taleebin" ><img src="../wp-content/uploads/2012/09/d6.jpg" alt="Dr.Orana Taleebin"></a>																			<span class="doc-type"><a href="../department/gyne/index.html">Gyne</a></span>																																
-
+                                    <img src="../wp-content/uploads/2012/09/bianca-w.jpg" alt="Dr.Orana Taleebin">
                             </figure>
 
-                            <p>Royal Prince Alfred Hospital &#8211; Sydney June 2009 to July 2010 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed&hellip;</p>
-                            <a href="curriculo_medico.php" class="readmore">Mais</a>
+                            <p>
+                                Psicóloga formada pela PUC-rio em 2008, especializada em Terapia Sistêmica de Família. <br/>
+
+                                Atendimentos individuais, de família e casal. Já trabalhou no campo escolar, realizando oficinas de empreendedorismo para crianças e adolescentes, além de palestras e workshops de orientação vocacional para adolescentes. <br/>
+
+                                Realiza acompanhamento psicológico de pacientes em tratamento para obesidade. <br/>
+
+                                Engajada com projetos sociais, realiza atendimentos comunitários para famílias carentes.
+                            </p>
+                           <!--  <a href="curriculo_medico.php" class="readmore">Mais</a> -->
                         </li>                                               
 
                         <li>
-                            <h4><a href="curriculo_medico.php">Dr.Adaline Becka</a></h4>
+                            <h4><a href="curriculo_medico.php">Dra. Renata Gazotto</a></h4>
                             <figure class="doc-img">													
-                                <a href="curriculo_medico.php" title="Dr.Adaline Becka" ><img src="../wp-content/uploads/2012/09/d4.jpg" alt="Dr.Adaline Becka"></a>																			<span class="doc-type"><a href="../department/gyne/index.html">Gyne</a></span>																																
-
+                                    <img src="../wp-content/uploads/2012/09/renata.jpg" alt="Dr.Adaline Becka">																		<span class="doc-type"><a href="../department/gyne/index.html">Gyne</a></span>																																
                             </figure>
 
-                            <p>Royal Prince Alfred Hospital &#8211; Sydney June 2009 to July 2010 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed&hellip;</p>
-                            <a href="curriculo_medico.php" class="readmore">Mais</a>
+                            <p>Graduada pela UNESA em Beleza Estética e Imagem Pessoa-l 2004 <br/>
+
+                                Pós - Graduanda em Cosmetologia Aplicada UNESA <br/>
+
+                                Professora do curso de pós - graduação em Fisioterapia  Dermato-funcional   - Faculdade Frasce .RJ <br/>
+
+                                Palestrante da Empresa Bioderm Bio-Exótica  RJ desde 2006 .
+                            </p>
+                             <!--  <a href="curriculo_medico.php" class="readmore">Mais</a> -->
                         </li>                                               
 
-                        <li>
-                            <h4><a href="curriculo_medico.php">Dr.Andrew Bert</a></h4>
-                            <figure class="doc-img">													
-                                <a href="curriculo_medico.php" title="Dr.Andrew Bert" ><img src="../wp-content/uploads/2012/09/d3.jpg" alt="Dr.Andrew Bert"></a>																			<span class="doc-type"><a href="../department/ent/index.html">ENT</a></span>																																
-
-                            </figure>
-
-                            <p>Royal Prince Alfred Hospital &#8211; Sydney June 2009 to July 2010 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed&hellip;</p>
-                            <a href="curriculo_medico.php" class="readmore">Mais</a>
-                        </li>                                               
-
-                        <li>
-                            <h4><a href="curriculo_medico.php">Dr.Kylee Leewan</a></h4>
-                            <figure class="doc-img">													
-                                <a href="curriculo_medico.php" title="Dr.Kylee Leewan" ><img src="../wp-content/uploads/2012/09/d5.jpg" alt="Dr.Kylee Leewan"></a>																			<span class="doc-type"><a href="../department/gyne/index.html">Gyne</a></span>																																
-
-                            </figure>
-
-                            <p>Royal Prince Alfred Hospital &#8211; Sydney June 2009 to July 2010 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed&hellip;</p>
-                            <a href="curriculo_medico.php" class="readmore">Mais</a>
-                        </li>                                               
                 </section>
             </div><!-- end of container -->
 

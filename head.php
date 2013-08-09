@@ -54,14 +54,14 @@
         <link rel='stylesheet' id='prettyPhoto-css'  href='wp-content/themes/healthpress-theme/js/prettyPhoto/css/prettyPhoto49eb.css?ver=3.5.2' type='text/css' media='all' />
         <link rel='stylesheet' id='jquery-ui-css-css'  href='wp-content/themes/healthpress-theme/css/redmond/jquery.ui.all49eb.css?ver=3.5.2' type='text/css' media='all' />
         <link rel='stylesheet' id='custom-css-css'  href='wp-content/themes/healthpress-theme/custom49eb.css?ver=3.5.2' type='text/css' media='all' />
-        
+        <script type='text/javascript' src='wp-content/themes/healthpress-theme/js/jquery.js'></script>
         <script type='text/javascript' src='http://healthpress.inspirythemes.com/wp-includes/js/comment-reply.min.js?ver=3.5.2'></script>
-        <script type='text/javascript' src='http://healthpress.inspirythemes.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
         <script type='text/javascript' src='wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min49eb.js?ver=3.5.2'></script>
         <script type='text/javascript' src='wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min49eb.js?ver=3.5.2'></script>
         <script type='text/javascript' src='wp-content/themes/healthpress-theme/js/prettyPhoto/js/jquery.prettyPhotoaeb9.js?ver=3.1.4'></script>
         <script type='text/javascript' src='wp-content/themes/healthpress-theme/js/jquery.validate.minfc6b.js?ver=1.10.0'></script>
         <script type='text/javascript' src='wp-content/themes/healthpress-theme/js/jquery.formd471.js?ver=3.18'></script>
+        
         <script type='text/javascript' src='wp-content/themes/healthpress-theme/js/jquery.cycle.litef24c.js?ver=1.6'></script>
         <script type='text/javascript' src='wp-content/themes/healthpress-theme/js/jquery.easing.1.34e44.js?ver=1.3'></script>
         <script type='text/javascript' src='wp-content/themes/healthpress-theme/js/flexslider/jquery.flexslider-mind5f7.js?ver=2.0'></script>

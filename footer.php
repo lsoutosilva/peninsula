@@ -22,7 +22,7 @@
                             <a href="contact-us/index.html">Galeria</a>
                         </li>
                          <li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152">
-                            <a href="contact-us/index.html">Contato</a>
+                            <a href="contato.php">Contato</a>
                         </li>
                     </ul>
                 </div></section>                                        
