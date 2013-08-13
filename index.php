@@ -185,6 +185,7 @@
 
                 <section class="slogan">
                     <h2>Nós cuidamos da sua saúde</h2>
+                    <h5>Uma equipe com grandes profissionais.</h5>
                 </section>
 
                 <ul class="services">
@@ -202,8 +203,9 @@
                     </li>
                     <li class="service">
                         <figure class="service-thumb"><a href="service/medical-counseling/index.html"><img src="wp-content/uploads/2012/09/serv4.png" alt="Emergency Services"></a></figure>
-                        <h4><a href="service/medical-counseling/index.html">RPG </a></h4>
+                        <h4><a href="service/medical-counseling/index.html">RPG e pilates</a></h4>
                     </li>
+                    
                     <!--    <li class="service">
 <figure class="service-thumb"><a href="service/blood-donor-service/index.html"><img src="wp-content/uploads/2012/09/serv5.png" alt="Transplant Services"></a></figure>
 <h4><a href="service/blood-donor-service/index.html">Transplant Services</a></h4>
@@ -216,15 +218,13 @@
 
                 </div>
 
-
                 <div class="official clearfix">
 
                     <div class="home-left-side">                                        
 
-
                         <section class="team clearfix">
 
-                            <h2 class="smart-head">Latest Blog Posts</h2>
+                            <h2 class="smart-head">Últimos posts</h2>
                             <br>
                             <ul class="doctors">
 
