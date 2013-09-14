@@ -72,14 +72,9 @@
                                      data-y="312" 
                                      data-speed="300" 
                                      data-start="500" 
-                                     data-easing="easeOutExpo"  >Clinical Excellence</div>
+                                     data-easing="easeOutExpo"  >Excelência clínica</div>
 
-                                <div class="tp-caption medium_grey sfb"  
-                                     data-x="65" 
-                                     data-y="371" 
-                                     data-speed="300" 
-                                     data-start="800" 
-                                     data-easing="easeOutExpo"  >Expert in Clinical Work</div>
+
                             </li>
 
                             <li data-transition="3dcurtain-horizontal" data-slotamount="9" data-masterspeed="800" data-delay="4000" >
@@ -90,14 +85,8 @@
                                      data-y="312" 
                                      data-speed="300" 
                                      data-start="500" 
-                                     data-easing="easeOutExpo"  >Caring Staff</div>
-
-                                <div class="tp-caption medium_grey lfr"  
-                                     data-x="65" 
-                                     data-y="371" 
-                                     data-speed="300" 
-                                     data-start="800" 
                                      data-easing="easeOutExpo"  >Medicina do Trabalho</div>
+
                             </li>
                             <li data-transition="turnoff" data-slotamount="9" data-masterspeed="800" >
                                 <img src="../wp-content/uploads/2012/09/couseling.jpg"  alt="couseling" >
@@ -107,14 +96,7 @@
                                      data-y="312" 
                                      data-speed="300" 
                                      data-start="500" 
-                                     data-easing="easeOutExpo"  >Medical Counseling</div>
-
-                                <div class="tp-caption medium_grey sft"  
-                                     data-x="65" 
-                                     data-y="371" 
-                                     data-speed="300" 
-                                     data-start="800" 
-                                     data-easing="easeOutExpo"  >Discuss Your Health</div>
+                                     data-easing="easeOutExpo"  >Consultas Médicas</div>
                             </li>
                         </ul>
                     </div>
@@ -190,22 +172,30 @@
 
                 <ul class="services">
                     <li class="service">
-                        <figure class="service-thumb"><a href="service/dental-treatment/index.html"><img src="wp-content/uploads/2012/09/serv1.png" alt="Diagnostic Imaging"></a></figure>
-                        <h4><a href="service/dental-treatment/index.html">Diagnóstico por imagem</a></h4>
+                        <figure class="service-thumb">
+                            <a href="biopsias.php">
+                                <img src="wp-content/uploads/2012/09/serv1.png" alt="Diagnostic Imaging">
+                            </a>
+                        </figure>
+                        <h4>Ultrassonografia e biópsias</h4>
                     </li>
                     <li class="service">
-                        <figure class="service-thumb"><a href="service/medical-counseling/index.html"><img src="wp-content/uploads/2012/09/serv2.png" alt="Cancer Care"></a></figure>
-                        <h4><a href="service/medical-counseling/index.html">Biópsias</a></h4>
+                        <figure class="service-thumb"><img src="wp-content/uploads/2012/09/serv2.png" alt="Cancer Care"></figure>
+                        <h4>Estética</h4>
                     </li>
                     <li class="service">
-                        <figure class="service-thumb"><a href="service/medical-pharmacy/index.html"><img src="wp-content/uploads/2012/09/serv3.png" alt="Rehabilitation Center"></a></figure>
-                        <h4><a href="service/medical-pharmacy/index.html">Medicina do trabalho</a></h4>
+                        <figure class="service-thumb"><img src="wp-content/uploads/2012/09/serv5.png" alt="Transplant Services"></figure>
+                        <h4><a href="service/blood-donor-service/index.html">Península Runners</a></h4>
                     </li>
+                    <!-- <li class="service">
+                         <figure class="service-thumb"><img src="wp-content/uploads/2012/09/serv3.png" alt="Rehabilitation Center"></figure>
+                         <h4>Medicina do trabalho</h4>
+                     </li>  -->
                     <li class="service">
-                        <figure class="service-thumb"><a href="service/medical-counseling/index.html"><img src="wp-content/uploads/2012/09/serv4.png" alt="Emergency Services"></a></figure>
-                        <h4><a href="service/medical-counseling/index.html">RPG e pilates</a></h4>
+                        <figure class="service-thumb"><img src="wp-content/uploads/2012/09/serv4.png" alt="Emergency Services"></figure>
+                        <h4>Pilates e RPG</h4>
                     </li>
-                    
+
                     <!--    <li class="service">
 <figure class="service-thumb"><a href="service/blood-donor-service/index.html"><img src="wp-content/uploads/2012/09/serv5.png" alt="Transplant Services"></a></figure>
 <h4><a href="service/blood-donor-service/index.html">Transplant Services</a></h4>
@@ -221,44 +211,44 @@
                 <div class="official clearfix">
 
                     <div class="home-left-side">                                        
-
-                        <section class="team clearfix">
-
-                            <h2 class="smart-head">Últimos posts</h2>
-                            <br>
-                            <ul class="doctors">
-
-                                <li class="clearfix">
-                                    <figure class="doc-img">
-                                        <a href="../latest-health-lessons/index.html" title="Latest Health Lessons" ><img src="../wp-content/uploads/2012/09/b4-186x148.jpg" alt="Latest Health Lessons"></a>                                                                                    </figure>
-                                    <h4><a href="../latest-health-lessons/index.html">Latest Health Lessons</a></h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci&hellip;</p>
-                                </li>                                               
-
-                                <li class="clearfix">
-                                    <figure class="doc-img">
-                                        <a href="../the-benefits-of-middle-age-fitness/index.html" title="The Benefits of Middle-Age Fitness" ><img src="../wp-content/uploads/2012/09/b2-186x148.jpg" alt="The Benefits of Middle-Age Fitness"></a>                                                                                    </figure>
-                                    <h4><a href="../the-benefits-of-middle-age-fitness/index.html">The Benefits of Middle-Age Fitness</a></h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci&hellip;</p>
-                                </li>                                               
-
-                                <li class="clearfix">
-                                    <figure class="doc-img">
-                                        <a href="../for-young-athletes-good-reasons-to-break-the-fast-food-habit/index.html" title="For Young Athletes, Good Reasons to Break the Fast-Food Habit" ><img src="../wp-content/uploads/2012/09/b6-186x148.jpg" alt="For Young Athletes, Good Reasons to Break the Fast-Food Habit"></a>                                                                                    </figure>
-                                    <h4><a href="../for-young-athletes-good-reasons-to-break-the-fast-food-habit/index.html">For Young Athletes, Good Reasons to Break the Fast-Food Habit</a></h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci&hellip;</p>
-                                </li>   
-                                <li class="clearfix">
-                                    <figure class="doc-img">
-                                        <a href="../for-young-athletes-good-reasons-to-break-the-fast-food-habit/index.html" title="For Young Athletes, Good Reasons to Break the Fast-Food Habit" ><img src="../wp-content/uploads/2012/09/b6-186x148.jpg" alt="For Young Athletes, Good Reasons to Break the Fast-Food Habit"></a>                                                                                    </figure>
-                                    <h4><a href="../for-young-athletes-good-reasons-to-break-the-fast-food-habit/index.html">For Young Athletes, Good Reasons to Break the Fast-Food Habit</a></h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci&hellip;</p>
-                                </li> 
-
-
-                            </ul>
-                            <a href="../blog/index.html" class="readmore">Mais Posts</a>
-                        </section>                                                                                                  
+                        <!--
+                                                <section class="team clearfix">
+                        
+                                                    <h2 class="smart-head">Últimos posts</h2>
+                                                    <br>
+                                                    <ul class="doctors">
+                        
+                                                        <li class="clearfix">
+                                                            <figure class="doc-img">
+                                                                <a href="../latest-health-lessons/index.html" title="Latest Health Lessons" ><img src="../wp-content/uploads/2012/09/b4-186x148.jpg" alt="Latest Health Lessons"></a>                                                                                    </figure>
+                                                            <h4><a href="../latest-health-lessons/index.html">Latest Health Lessons</a></h4>
+                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci&hellip;</p>
+                                                        </li>                                               
+                        
+                                                        <li class="clearfix">
+                                                            <figure class="doc-img">
+                                                                <a href="../the-benefits-of-middle-age-fitness/index.html" title="The Benefits of Middle-Age Fitness" ><img src="../wp-content/uploads/2012/09/b2-186x148.jpg" alt="The Benefits of Middle-Age Fitness"></a>                                                                                    </figure>
+                                                            <h4><a href="../the-benefits-of-middle-age-fitness/index.html">The Benefits of Middle-Age Fitness</a></h4>
+                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci&hellip;</p>
+                                                        </li>                                               
+                        
+                                                        <li class="clearfix">
+                                                            <figure class="doc-img">
+                                                                <a href="../for-young-athletes-good-reasons-to-break-the-fast-food-habit/index.html" title="For Young Athletes, Good Reasons to Break the Fast-Food Habit" ><img src="../wp-content/uploads/2012/09/b6-186x148.jpg" alt="For Young Athletes, Good Reasons to Break the Fast-Food Habit"></a>                                                                                    </figure>
+                                                            <h4><a href="../for-young-athletes-good-reasons-to-break-the-fast-food-habit/index.html">For Young Athletes, Good Reasons to Break the Fast-Food Habit</a></h4>
+                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci&hellip;</p>
+                                                        </li>   
+                                                        <li class="clearfix">
+                                                            <figure class="doc-img">
+                                                                <a href="../for-young-athletes-good-reasons-to-break-the-fast-food-habit/index.html" title="For Young Athletes, Good Reasons to Break the Fast-Food Habit" ><img src="../wp-content/uploads/2012/09/b6-186x148.jpg" alt="For Young Athletes, Good Reasons to Break the Fast-Food Habit"></a>                                                                                    </figure>
+                                                            <h4><a href="../for-young-athletes-good-reasons-to-break-the-fast-food-habit/index.html">For Young Athletes, Good Reasons to Break the Fast-Food Habit</a></h4>
+                                                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci&hellip;</p>
+                                                        </li> 
+                        
+                        
+                                                    </ul>
+                                                    <a href="../blog/index.html" class="readmore">Mais Posts</a>
+                                                </section>  -->                                                                                                
                     </div><!-- home left side -->                                        
 
                 </div> <!-- end of official -->

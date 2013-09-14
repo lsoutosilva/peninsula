@@ -70,25 +70,20 @@
 
                         </script>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
-
                     <address>
-                        Contact Details will be appear <br>											Contact Address will be appear here,<br>											City, State, Country<br>											</address>
-
-                    
-
-
-
+                        Av João Cabral de Melo Neto, 610 sala 1.305 Península | Barra da Tijuca | <br>
+                        CEP 22775-057 Rio de Janeiro-RJ
+                        <br>											</address>
                 </div>
 
                 <aside id="sidebar">
                     <section class="widget"><h3 class="title">Contato</h3>        <div class="contact-widget">
                             <p>
-                                <strong>Telefone :</strong> 21 - 3311-5287<br/>
+                                <strong>Telefones :</strong> 21 - 3311-5287 | 21 - 9530-5872<br/>
                             </p>
                             <hr/>
                             <p>
-                                <a href="mailto:contato@centromedicopeninsula.com.br">contato@centromedicopeninsula.com.br</a>
+                                <a href="mailto:contato@espacomedicopeninsula.com">contato@espacomedicopeninsula.com</a>
                         </div>        
                     </section>									
                 </aside>                                

@@ -7,21 +7,18 @@
                 <div class="menu-footer-menu-container">
                     <ul id="menu-footer-menu" class="menu">
                         <li id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-155">
-                        <a href="index.php">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156">
-                            <a href="blog/index.html">Blog</a>
+                            <a href="blog.php">Blog</a>
                         </li>
                         <li id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153">
-                            <a href="3-columns-services/index.html">Médicos</a>
+                            <a href="medicos.php">Médicos</a>
                         </li>
                         <li id="menu-item-154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154">
-                            <a href="4-columns-doctors/index.html">Especialidades</a>
+                            <a href="especialidades.php">Especialidades</a>
                         </li>
                         <li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152">
-                            <a href="contact-us/index.html">Galeria</a>
-                        </li>
-                         <li id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152">
                             <a href="contato.php">Contato</a>
                         </li>
                     </ul>
@@ -32,8 +29,8 @@
             <section class="widget"><h3 class="title">Localização</h3>   
                 <p>Av João Cabral de Melo Neto, 610 sala 1.305 Península 
                     | Barra da Tijuca | CEP 22775-057 Rio de Janeiro-RJ</p>
-                <p><span>Telefone:</span> 21 - 3311-5287</p>
-                <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>               
+                <p><span>Telefone:</span> 21 - 3311-5287 | 9530-5872</p>
+                <p><span>Email:</span> <a href="mailto:contato@espacomedicopeninsula.com">contato@espacomedicopeninsula.com</a></p>               
             </section>                                     
         </section>
 

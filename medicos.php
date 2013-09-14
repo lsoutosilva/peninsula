@@ -26,8 +26,8 @@
             </hgroup>
 
             <div id="container">                        		                                                                                                                                                                                                                      
-                <div class="page_featured">													
-                    <img src="../wp-content/uploads/2012/09/doctors-image1.jpg" alt="4 Columns Doctors">                                                               												
+                <div class="page_featured">									
+                    <img src="../wp-content/uploads/2012/09/folder.jpg" alt="4 Columns Doctors">                                                               												
                 </div>
                 <article id="post-52" class="post-52 page type-page status-publish hentry clearfix">                      																	
 
@@ -37,7 +37,7 @@
 
                     <ul class="doctors clearfix" >	
                         <li>
-                            <h4><a href="curriculo_medico.php">Dra. Bianca Welikson</a></h4>
+                            <h4>Dra. Bianca Welikson</h4>
                             <figure class="doc-img">													
                                     <img src="../wp-content/uploads/2012/09/bianca-w.jpg" alt="Dr.Orana Taleebin">
                             </figure>
@@ -55,9 +55,9 @@
                         </li>                                               
 
                         <li>
-                            <h4><a href="curriculo_medico.php">Dra. Renata Gazotto</a></h4>
+                            <h4>Dra. Renata Gazotto</h4>
                             <figure class="doc-img">													
-                                    <img src="../wp-content/uploads/2012/09/renata.jpg" alt="Dr.Adaline Becka">																		<span class="doc-type"><a href="../department/gyne/index.html">Gyne</a></span>																																
+                                    <img src="../wp-content/uploads/2012/09/renata.jpg" alt="Dr.Adaline Becka">																																
                             </figure>
 
                             <p>Graduada pela UNESA em Beleza Estética e Imagem Pessoa-l 2004 <br/>
@@ -69,7 +69,21 @@
                                 Palestrante da Empresa Bioderm Bio-Exótica  RJ desde 2006 .
                             </p>
                              <!--  <a href="curriculo_medico.php" class="readmore">Mais</a> -->
-                        </li>                                               
+                        </li>
+                        <li>
+                            <h4>Dr. Arnaldo Welikson</h4>
+                            <figure class="doc-img">													
+                                    <img src="../wp-content/uploads/2012/09/arnaldo.jpg" alt="Dr.Adaline Becka">																																
+                            </figure>
+
+                            <p>Arnaldo Welikson, formado em 1975 pela FNM-UFRJ.<br/>
+
+                                Atende como clínico geral e realiza ultrassonografia geral e <br/>
+
+                                as biópsias guiadas de próstata, mama, tireoide, massas e coleções. 
+                            </p>
+                             <!--  <a href="curriculo_medico.php" class="readmore">Mais</a> -->
+                        </li>
 
                 </section>
             </div><!-- end of container -->
